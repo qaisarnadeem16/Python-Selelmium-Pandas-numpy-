@@ -9,4 +9,3 @@ df = pd.DataFrame(data)
 grouped_df = df.groupby('Department')['Salary'].sum()
 
 print(grouped_df)
-''.
