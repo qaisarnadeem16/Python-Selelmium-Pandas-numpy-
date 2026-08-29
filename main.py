@@ -1,3 +1,4 @@
+import utils.session
 from selenium import webdriver
 
 browser = webdriver.Chrome()
